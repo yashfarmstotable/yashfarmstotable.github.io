@@ -3,7 +3,10 @@ hero: Vegetable
 subtitle: Potato
 name: Potato
 description_markdown: >-
-  The potato is a root vegetable. A raw potato is 79% water, 17% carbohydrates (88% is starch), 2% protein, and contains negligible fat and is a rich source of vitamin B6 and vitamin C
+  The potato is a root vegetable. A raw potato is 79% water, 17% carbohydrates (88% is starch), 2% protein, and contains negligible fat and is a rich source of vitamin B6 and vitamin C. This is from Wikipedia.
+
+
+
 
   Order in sizes of
   - 1 Kg
