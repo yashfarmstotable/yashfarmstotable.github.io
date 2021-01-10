@@ -2,7 +2,8 @@
 hero: Vegetable
 subtitle: Capsicum
 name: Capsicum
-description_markdown: >- Also called as Bell Peppers or Simla Mirch  or capsicum
+description_markdown: >-
+Also called as Bell Peppers or Simla Mirch  or capsicum
 Peppers are native to Mexico, Central America, and northern South America. Pepper seeds were imported to Spain in 1493 and then spread through Europe and Asia.
 Red bell peppers are simply ripened green peppers
 
