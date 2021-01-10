@@ -3,7 +3,7 @@ hero: Vegetable
 subtitle: Egg Plant
 name: Egg Plant
 description_markdown: >-
-Baingan or Egg plant
+  Baingan or Egg plant
 
 
 garment_type: vegetable

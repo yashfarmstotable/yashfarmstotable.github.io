@@ -3,7 +3,7 @@ hero: Vegetable
 subtitle: Cluster Bean
 name: Cluster Bean
 description_markdown: >-
-Cluster Mad dog
+  Cluster are also called as Gawar
 
 garment_type: vegetable
 price: '100.00/kg'
