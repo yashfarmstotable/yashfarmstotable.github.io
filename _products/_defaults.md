@@ -1,6 +1,6 @@
 ---
 name:
-garment_type: top
+garment_type: vegetable
 price:
 sku:
 description:
