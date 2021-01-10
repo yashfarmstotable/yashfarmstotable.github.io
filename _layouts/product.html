@@ -10,8 +10,8 @@ layout: default
 					<h3>{{ page.name }}</h3>
 					{{ page.description_markdown }}
 
+					<h5>{{ page.sizes | join: ' | ' }}</h5>
 					<h4>${{ page.price }}</h4>
-					<div>{{ page.sizes | join: '|' }}</div>
 					<!-- <div class="button">{% include snipcart-button.html product=page %}</div> -->
 				</div>
 			</div>
