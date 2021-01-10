@@ -3,8 +3,6 @@ hero: Fruits
 subtitle: Banana
 name: Banana
 description_markdown: >-
-  Banana
-
 
 garment_type: vegetable
 price: '40.00/dozen'
