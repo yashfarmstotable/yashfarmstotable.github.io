@@ -2,7 +2,7 @@
 # Site
 
 title: Yash Farms to Table
-url: "http://turquoise-rook.cloudvent.net/"
+url: "https://yashfarmtotable.com"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -13,14 +13,11 @@ logo: /siteicon.png
 description: Local Pune based vegetable delivery service.
 author:
   name: shilpa mehta
-  email: fur@example.com
-  twitter: fur # twitter username without the @ symbol
-  phone: "+1 23456789"
+  phone: "+917083983908"
 social:
-  name: Fur Template
+  name: Yash Farms To Table
   links:
     - https://github.com/CloudCannon/fur-jekyll-template
-
 # -----
 # Build
 timezone: Etc/UTC
