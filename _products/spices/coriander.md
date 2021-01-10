@@ -1,18 +1,18 @@
 ---
 hero: Spices
-subtitle: Ginger
-name: Ginger
+subtitle: Coriander Leaves
+name: Coriander Leaves
 description_markdown: >-
-  Ginger
+  Coriander Leaves
 garment_type: vegetable
-price: '50.00/kg'
-sku: ginger
+price: '30.00/bunch'
+sku: coriander
 stock: 100
 sizes:
-  - 100 gm
-  - 250 gm
-  - 500 gm
+  - 1 bunch
+  - 2 bunches
+  - 5 bunches
 
 styles:
-  - image: /images/products/spices/ginger.png
+  - image: /images/products/spices/coriander.png
 ---
