@@ -13,7 +13,6 @@ stock: 100
 sizes:
 - 750 gm
 - 1kg
-
 styles:
   - image: /images/products/vegetables/greenbellpeppers.jpg
 ---
