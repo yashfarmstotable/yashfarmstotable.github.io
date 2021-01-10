@@ -14,5 +14,5 @@ sizes:
   - 2 bunch
   - 5 bunches
 styles:
-  - image: /images/products/vegetables/methileaves.jpg
+  - image: /images/products/vegetables/methileaves.jpeg
 ---
