@@ -10,8 +10,9 @@ price: '80.00/kg'
 sku: clusterbean
 stock: 100
 sizes:
-  - 1 kg
-
+  - 500 gm
+  - 750 gm
+  - 1kg
 styles:
   - image: /images/products/vegetables/clusterbean.jpg
 ---
