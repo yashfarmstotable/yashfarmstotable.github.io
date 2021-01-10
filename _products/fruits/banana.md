@@ -14,5 +14,5 @@ sizes:
  - 6 unit
  - 12 unit
 styles:
-  - image: /images/products/fruits/banana.jpg
+  - image: /images/products/fruits/bananas.jpg
 ---
