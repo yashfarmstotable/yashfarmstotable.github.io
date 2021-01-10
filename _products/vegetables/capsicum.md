@@ -1,9 +1,9 @@
 ---
 hero: Vegetable
-subtitle: Capscicum
-name: Capscicum
+subtitle: Capsicum
+name: Capsicum
 description_markdown: >-
-  Capscicum
+  Capsicum or Green Peppers or Bell Peppers
 
 garment_type: vegetable
 price: '60.00/kg'
