@@ -1,7 +1,7 @@
 ---
 hero: Vegetable
-subtitle: SpinachLeaves
-name: SpinachLeaves
+subtitle: Spinach Leaves
+name: Spinach Leaves
 description_markdown: >-
 
 
