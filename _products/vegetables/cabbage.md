@@ -11,9 +11,9 @@ price: '70.00/kg'
 sku: cabbage
 stock: 100
 sizes:
-- 400 gm
-- 500 gm
-- 750 gm
+  - 400 gm
+  - 500 gm
+  - 750 gm
 
 styles:
   - image: /images/products/vegetables/cabbage.jpg

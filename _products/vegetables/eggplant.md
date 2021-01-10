@@ -1,17 +1,19 @@
 ---
 hero: Vegetable
 subtitle: Egg Plant
-name: Eggplant
+name: Egg Plant
 description_markdown: >-
-Eggplants or Baingan 
+Baingan or Egg plant
+
+
 garment_type: vegetable
 price: '100.00/kg'
 sku: eggplant
 stock: 100
 sizes:
-  - 500gm
-  - 1kg
-  - 2kg
+  - 1 kg
+  - 2 kg
+
 styles:
-  - image: /images/products/vegetables/eggplant_small.jpg
+  - image: /images/products/vegetables/eggplantbig.jpg
 ---
