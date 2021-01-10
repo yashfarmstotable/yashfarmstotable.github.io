@@ -14,5 +14,5 @@ sizes:
   - 2 Kg
   - 5 Kg
 styles:
-  - image: /images/products/vegetables/amaranthleaves.jp
+  - image: /images/products/vegetables/amaranthleaves.jpg
 ---
