@@ -11,7 +11,7 @@ stock: 100
 sizes:
   - 1 bunch
   - 2 bunches
-  - 5 bunches
+  - 3 bunches
 
 styles:
   - image: /images/products/spices/coriander.png
