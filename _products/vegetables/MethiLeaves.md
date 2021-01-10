@@ -1,18 +1,18 @@
 ---
 hero: Vegetable
-subtitle: Methileaves
-name: Methileaves
+subtitle: MethiLeaves
+name: MethiLeaves
 description_markdown: >-
-Fenugreek or Methi Leaves are used as a herb (dried or fresh leaves), spice (seeds), and vegetable (fresh leaves, sprouts, and microgreens).
+  The roots contain high quantities of alpha- and beta-carotene, and are a good source
+  of vitamin K and vitamin B6.
 
 garment_type: vegetable
-price: '20.00/bunch'
-sku:  methileaves
+price: '80.00/kg'
+sku: carrot
 stock: 100
 sizes:
   - 1 bunch
-  - 2 bunches
-
+  - 2 bunch
 styles:
   - image: /images/products/vegetables/methileaves.jpg
 ---
