@@ -8,7 +8,7 @@ description_markdown: >-
 
 garment_type: vegetable
 price: '40.00/dozen'
-sku: carrot
+sku: banana
 stock: 48
 sizes:
  - 6 unit
