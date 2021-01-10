@@ -3,16 +3,16 @@ hero: Vegetable
 subtitle: MethiLeaves
 name: MethiLeaves
 description_markdown: >-
-  The roots contain high quantities of alpha- and beta-carotene, and are a good source
-  of vitamin K and vitamin B6.
+Fenugreek leaves have a variety of nutrients that are important for health like Vitamin K, Calcium, Vitamin C, Vitamin A, B-complex vitamins like Folate, Riboflavin and Pyridoxine.
 
 garment_type: vegetable
-price: '80.00/kg'
-sku: carrot
+price: '20.00/kg'
+sku: methileaves
 stock: 100
 sizes:
   - 1 bunch
   - 2 bunch
+  - 5 bunches
 styles:
   - image: /images/products/vegetables/methileaves.jpg
 ---
