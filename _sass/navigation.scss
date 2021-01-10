@@ -15,6 +15,10 @@
 header {
 	color: #fff;
 	padding: 20px 0 59px 0;
+	background-image: url("/images/layouts/mandai.jpeg");
+	background-position: center;
+	background-size: cover;
+	position: relative;	
 
 	p {
 		margin: 0;
@@ -36,10 +40,6 @@ header {
 			top: -254px;
 			bottom: 50%;
 			left: 43%;
-			background-image: url("/images/layouts/mandai.jpeg");
-			background-position: center;
-			background-size: cover;
-			position: relative;
 			filter: blur(3px);
 		  -webkit-filter: blur(3px);
 		}
