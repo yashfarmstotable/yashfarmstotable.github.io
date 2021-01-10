@@ -15,12 +15,16 @@
 header {
 	color: #fff;
 	padding: 20px 0 59px 0;
-	background-image: url("/images/layouts/mandai.jpeg");
-	background-position: center;
-	background-size: cover;
-	position: relative;
-	filter: blur(3px);
-  -webkit-filter: blur(3px);
+
+	.bg-image {
+		background-image: url("/images/layouts/mandai.jpeg");
+		background-position: center;
+		background-size: cover;
+		position: relative;
+		filter: blur(3px);
+	  -webkit-filter: blur(3px);
+	}
+	
 
 	p {
 		margin: 0;
