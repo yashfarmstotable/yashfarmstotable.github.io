@@ -10,7 +10,7 @@ price: '80.00/kg'
 sku: pumpkin
 stock: 100
 sizes:
-  1 kg
+  - 1 kg
 styles:
   - image: /images/products/vegetables/pumpkin_whole.jpg
 ---

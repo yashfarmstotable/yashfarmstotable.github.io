@@ -11,8 +11,8 @@ price: '80.00/kg'
 sku: cauliflower
 stock: 100
 sizes:
-- 750 gms
--  1 kg
+  - 750 gms
+  -  1 kg
 styles:
   - image: /images/products/vegetables/cauliflower.jpg
 ---

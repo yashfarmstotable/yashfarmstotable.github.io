@@ -10,8 +10,8 @@ price: '20.00/bunch'
 sku:  methileaves
 stock: 100
 sizes:
-- 1 bunch
-- 2 bunches
+  - 1 bunch
+  - 2 bunches
 
 styles:
   - image: /images/products/vegetables/methileaves.jpg

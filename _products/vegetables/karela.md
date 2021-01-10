@@ -10,7 +10,7 @@ price: '60.00/kg'
 sku: karela
 stock: 100
 sizes:
-  1 kg
+  - 1 kg
 styles:
   - image: /images/products/vegetables/karela.jpg
 ---

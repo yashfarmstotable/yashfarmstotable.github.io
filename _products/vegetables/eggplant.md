@@ -10,9 +10,9 @@ price: '100.00/kg'
 sku: eggplant
 stock: 100
 sizes:
-- 500gm
-- 1kg
-- 2kg
+  - 500gm
+  - 1kg
+  - 2kg
 styles:
   - image: /images/products/vegetables/eggplant_small.jpg
 ---

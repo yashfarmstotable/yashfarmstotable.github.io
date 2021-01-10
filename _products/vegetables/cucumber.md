@@ -12,7 +12,7 @@ price: '40.00/kg'
 sku:  cucumber
 stock: 100
 sizes:
-- 1kg
+  - 1kg
 
 styles:
   - image: /images/products/vegetables/cucumber.jpg
