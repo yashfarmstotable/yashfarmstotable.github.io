@@ -14,5 +14,5 @@ sizes:
   - 500 gm
 
 styles:
-  - image: /images/products/spices/greenchillies.jpeg
+  - image: /images/products/spices/chillies.jpeg
 ---
