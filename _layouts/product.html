@@ -12,14 +12,11 @@ layout: default
 
 					<h5>{{ page.sizes | join: ' | ' }}</h5>
 					<h4>from ₹ {{ page.price }}</h4>
+					<!-- Switch button to WhatsApp message link -->
+					<a href="https://wa.me/{{ site.author.phone }}&text={{ page.name }}">Order Now!</a>
 					<!-- <div class="button">{% include snipcart-button.html product=page %}</div> -->
 				</div>
 			</div>
 		</div>
 	</section>
 </div>
-
-<!--
-<script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" data-api-key="{{ site.api_key }}" id="snipcart"></script>
-<link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet" type="text/css" />
--->

@@ -1,8 +1,3 @@
-{% assign colors = "" %}
-{% for style in include.product.styles %}
-	{% assign colors = colors | append: '|' | append: style.name %}
-{% endfor %}
-{% assign colors = colors | remove_first: '|' %}
 <button class="snipcart-add-item"
 	data-item-name="{{ include.product.name }}"
 	data-item-id="{{ include.product.sku }}"
@@ -15,5 +10,5 @@
 	data-item-custom2-options="{{ colors }}"
 	data-item-url="{{ include.product.url }}"
 	data-item-price="{{ include.product.price }}">
-	{% if include.text %}{{ include.text }}{% else %}Add to cart{% endif %}
+	{% if include.text %}{{ include.text }}{% else %}WhatsApp Order{% endif %}
 </button>
