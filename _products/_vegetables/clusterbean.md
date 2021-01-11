@@ -13,5 +13,5 @@ sizes:
   - 1 kg
 
 styles:
-  - image: /images/products/vegetables/clusterbeans.jpeg
+  - image: /images/products/vegetables/clusterbean.jpg
 ---
