@@ -7,8 +7,11 @@ subtitle: We are a Family Owned Business. We offer Doorstep Delivery to Shivane,
 <div class="content" id="products">
 	<section>
 		<div class="container">
+
+			<h2 align="center"> Vegetables </h2>
+
 			<ul class="product-list">
-				{% for product in site.products %}
+				{% for product in site.vegetables %}
 					<li>
 						{% include product-styles.html product=product %}
 						<div class="product-details">
@@ -25,6 +28,49 @@ subtitle: We are a Family Owned Business. We offer Doorstep Delivery to Shivane,
 				<li></li>
 				<li></li>
 			</ul>
+
+			<h2 align="center"> Fruits </h2>
+
+			<ul class="product-list">
+				{% for product in site.fruits %}
+					<li>
+						{% include product-styles.html product=product %}
+						<div class="product-details">
+							<h4><a href="{{ product.url }}">{{ product.name }}</a></h4>
+<!--							<div class="product-description">
+								{{ product.description_markdown | truncate: 45}}
+							</div>
+-->
+							<h4>from ₹ {{ product.price }}</h4>
+						</div>
+					</li>
+				{% endfor %}
+				<li></li>
+				<li></li>
+				<li></li>
+			</ul>
+
+			<h2 align="center"> Spices </h2>
+
+			<ul class="product-list">
+				{% for product in site.spices %}
+					<li>
+						{% include product-styles.html product=product %}
+						<div class="product-details">
+							<h4><a href="{{ product.url }}">{{ product.name }}</a></h4>
+<!--							<div class="product-description">
+								{{ product.description_markdown | truncate: 45}}
+							</div>
+-->
+							<h4>from ₹ {{ product.price }}</h4>
+						</div>
+					</li>
+				{% endfor %}
+				<li></li>
+				<li></li>
+				<li></li>
+			</ul>
+
 		</div>
 	</section>
 </div>

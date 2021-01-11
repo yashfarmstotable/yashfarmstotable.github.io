@@ -22,14 +22,21 @@ social:
 # Build
 timezone: Etc/UTC
 
+collections_dir: _products
 collections:
-  staff_members:
-    _hide_content: true
-    _icon: account_circle
   products:
     _hide_content: true
     output: true
-    _icon: shopping_cart
+  vegetables:
+    _hide_content: true
+    output: true
+  fruits:
+    _hide_content: true
+    output: true
+  spices:
+    _hide_content: true
+    output: true
+
 
 permalink: pretty
 
@@ -38,6 +45,24 @@ defaults:
     scope:
       path: ""
       type: "products"
+    values:
+      layout: "product"
+  -
+    scope:
+      path: ""
+      type: "vegetables"
+    values:
+      layout: "product"
+  -
+    scope:
+      path: ""
+      type: "fruits"
+    values:
+      layout: "product"
+  -
+    scope:
+      path: ""
+      type: "spices"
     values:
       layout: "product"
   -
@@ -64,26 +89,3 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENCE
-
-# -----------
-# CloudCannon
-
-garment_types:
-  - hat
-  - top
-
-social_icons:
-  - Email
-  - Facebook
-  - RSS
-
-_comments:
-  map: Update the map location and display settings.
-  latitude: Coordinates for the center marker on the map.
-  longitude: Coordinates for the center marker on the map.
-  zoom: The zoom level for the map.
-  pricing_table: Update the information in the pricing tables.
-  highlight: Emphasis the text
-  color: The background color used in the plan name and call to action.
-  new_window: Open link in new window
-  description: This is used for facebook shares of the page and google indexing
