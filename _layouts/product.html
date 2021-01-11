@@ -8,12 +8,11 @@ layout: default
 				{% include product-styles.html product=page %}
 				<div class="product-details" id="add">
 					<h3>{{ page.name }}</h3>
-					{{ page.description_markdown }}
-
-					<h5>{{ page.sizes | join: ' | ' }}</h5>
+					{{ page.description_markdown | markdownify  }}
+					<h4>{{ page.sizes | join: ' | ' }}</h4>
 					<h4>from ₹ {{ page.price }}</h4>
 					<!-- Switch button to WhatsApp message link -->
-					<a href="https://wa.me/{{ site.author.phone }}&text={{ page.name }}">Order Now!</a>
+					<h4><a href="https://wa.me/{{ site.author.phone }}&text={{ page.name }}">Order Now!</a></h4>
 					<!-- <div class="button">{% include snipcart-button.html product=page %}</div> -->
 				</div>
 			</div>
