@@ -160,9 +160,15 @@ blockquote .quote:after {
 hr {
 	width: 50%;
 	height: 1px;
-	margin: 25px;
+	margin-top: 75px;
 	margin-left: auto;
 	margin-right: auto;
 	background-color:#666;
 	opcaity: 0.5;
+}
+
+h2.product-title {
+	margin: 25px;
+	font-weight: 600;
+	text-align: center;
 }
