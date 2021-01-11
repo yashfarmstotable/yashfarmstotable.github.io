@@ -36,6 +36,9 @@ collections:
   spices:
     _hide_content: true
     output: true
+  flowers:
+    _hide_content: true
+    output: true
 
 
 permalink: pretty
@@ -57,6 +60,12 @@ defaults:
     scope:
       path: ""
       type: "fruits"
+    values:
+      layout: "product"
+  -
+    scope:
+      path: ""
+      type: "flowers"
     values:
       layout: "product"
   -
