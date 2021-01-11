@@ -11,5 +11,5 @@ stock: 100
 sizes:
  - 1 kg
 styles:
-  - image: /images/products/fruits/oranges1.jpeg
+  - image: /images/products/fruits/orange.jpeg
 ---
