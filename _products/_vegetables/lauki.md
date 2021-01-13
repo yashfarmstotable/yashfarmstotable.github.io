@@ -13,4 +13,5 @@ sizes:
   - 2 kg
 styles:
   - image: /images/products/vegetables/lauki.jpg
+
 ---
